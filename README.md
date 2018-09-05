@@ -1,2 +1,2 @@
 # shell
-shell scripts
+Shell scripts
